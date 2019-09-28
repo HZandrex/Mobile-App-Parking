@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Project4.2</string>
+    <string name="title_activity_main">Project4.2</string>
+
+    <!-- Navigation Drawer -->
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_add">Toevoegen</string>
+    <string name="nav_history">Historiek</string>
+    <string name="nav_search">Zoeken</string>
+    <string name="nav_settings">Instellingen</string>
+
+    <!-- Overige Activitys -->
+    <string name="act_edit">Boete aanpassen</string>
+    <string name="act_details">Boete details</string>
+
+    <!-- Dieter -->
+    <string name="sync_boetes">Automatisch boetes synchroniseren</string>
+    <string name="evidence">Bewijsmateriaal</string>
+    <string name="note">Opmerking</string>
+    <string name="cache">Automatisch cache legen</string>
+    <string name="naam">Voornaam + Naam</string>
+    <string name="opslagen">Opslagen</string>
+    <string name="filterDate">Datum</string>
+    <string name="filterType">Type</string>
+    <string name="zoeken">Zoek tussen boetes</string>
+    <string name="boetes">Boetes</string>
+    <string-array name="sorteerTypes">
+        <item>- Kies voor te sorteren -</item>
+        <item>Datum</item>
+        <item>Type boete</item>
+
+    </string-array>
+
+    <!-- Nico -->
+    <!-- Add Fine -->
+    <string name="license_plate">Nummerplaat: </string>
+    <string name="type">Type: </string>
+    <string name="at">om: </string>
+    <string name="on">Op: </string>
+    <string-array name="fineTypes">
+        <item>Papiertje</item>
+        <item>Wielklem</item>
+    </string-array>
+    <string name="title_activity_edit_details">EditDetailsActivity</string>
+    <string name="title_activity_details">DetailsActivity</string>
+
+    <!--details fine -->
+    <string name="made_by">Gemaakt door: </string>
+    <string name="location">Locatie: </string>
+    <string name="noteLabel">Opmerking: </string>
+</resources>
